@@ -15,7 +15,7 @@ The purpose of this project is to identify the factors that influence churn rate
 * Excel
 
 ## Project Description
-The project involved	Building a predictive model that would predict if a customer will churn or not based on the past telecom customer data to perform trend analysis.	Developed 
+The project involved building a predictive model that would predict if a customer will churn or not based on the past telecom customer data to perform trend analysis.	Developed 
 logistic regression and decision tree with both full grown and pruned models for classification purpose. Logistic regression models were created with variables of different 
 signicance levels for deeper understanding of the data works. Used AUC- ROC score to evaluate the models and finalized on logistic regression as it showed a high AUC_ROC score
 of 82.3%.
