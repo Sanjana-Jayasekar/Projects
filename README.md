@@ -2,7 +2,7 @@
 
 #### -- Project Status: Completed
 
-## Project Intro/Objective
+## Project Objective
 The purpose of this project is to identify the factors that influence churn rate in telecom industry and to provide recommendation on how to control the churn rate.
 
 ### Methods Used
