@@ -10,8 +10,8 @@ The purpose of this project is to identify the factors that influence churn rate
 * Data Visualization
 * Inferential Statistics
 
-### Technologies
-* R 
+### Tech Stack
+* R `
 * Excel
 
 ## Project Description
